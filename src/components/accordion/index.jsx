@@ -1,4 +1,4 @@
-export default function AccordionApp(){
+export default function Accordion(){
 
     return(<div>
             <p>hello</p>
